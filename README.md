@@ -40,7 +40,7 @@ trading_bot/
 ### 1 — Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sufiyan-cyber/binance_trader_bot.git
 cd trading_bot
 ```
 
